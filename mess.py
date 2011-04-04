@@ -15,8 +15,6 @@ ser = serial.Serial(
 ser.open()
 ser.isOpen()
 
-
-input=1
 while 1 :
         ser.write(r"c01") # + '\r\n')
         out = ''
