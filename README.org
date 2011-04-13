@@ -1,9 +1,10 @@
 
 * Links
-CCS Charge Controller http://www.bticcs.com/
-Ladechip http://www.mikrocontroller.net/topic/42839 
+  - CCS Charge Controller http://www.bticcs.com/
+  - Ladechip http://www.mikrocontroller.net/topic/42839 
 
 * Charge-Manager2000
-http://www.mikrocontroller.net/topic/33931
-Umbauanleitung für den Conrad Charge Manager 2000 http://www.afulinux.de/cm2000.htm 
-Datenblatt und Schaltplan http://www.produktinfo.conrad.com/cgi-bin/dlc/dlc.cgi?art=511099
+  - http://www.mikrocontroller.net/topic/33931
+  - Umbauanleitung für den Conrad Charge Manager 2000 http://www.afulinux.de/cm2000.htm 
+  - Datenblatt und Schaltplan http://www.produktinfo.conrad.com/cgi-bin/dlc/dlc.cgi?art=511099
+
